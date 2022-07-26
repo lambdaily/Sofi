@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Girassol&display=swap");
-
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
 body {
   display: flex;
   justify-content: center;
@@ -13,7 +13,8 @@ body {
   font-weight: 100;
   font-size: 28px;
   color: #fafafa;
-  font-family: 'Girassol', cursive;
+  /* font-family: 'Girassol', cursive; */
+  font-family: 'Roboto Mono', monospace;
 }
 .dud {
   color: #757575;
