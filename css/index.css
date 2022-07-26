@@ -15,6 +15,7 @@ body {
   color: #fafafa;
   /* font-family: 'Girassol', cursive; */
   font-family: 'Roboto Mono', monospace;
+  text-align: center;
 }
 .dud {
   color: #757575;
