@@ -7,7 +7,10 @@ body {
   align-items: center;
   height: 90vh;
 }
-
+a {
+  text-decoration: none;
+  color: #fff;
+}
 .text {
   font-weight: 100;
   font-size: 28px;
@@ -193,12 +196,12 @@ button::after {
   margin-top: 20px;
   padding: 16px 20px;
   font-size: 18px;
-  background: linear-gradient(45deg, transparent 5%, #4903ca 5%);
+  background: linear-gradient(45deg, transparent 5%, #000 5%);
   border: 0;
   color: #fff;
   letter-spacing: 3px;
   line-height: 1;
-  box-shadow: 6px 0px 0px #00e6f6;
+  box-shadow: 6px 0px 0px #05122c;
   outline: transparent;
   position: relative;
 }
@@ -220,11 +223,11 @@ button::after {
   background: linear-gradient(
     45deg,
     transparent 3%,
-    #00e6f6 3%,
-    #00e6f6 5%,
-    #ff013c 5%
+    #fff 3%,
+    #06152f 5%,
+    #06152f 5%
   );
-  text-shadow: -3px -3px 0px #f8f005, 3px 3px 0px #00e6f6;
+  text-shadow: -3px -3px 0px #f8f005, 3px 3px 0px #00eff6f6;
   clip-path: var(--slice-0);
 }
 

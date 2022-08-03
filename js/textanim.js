@@ -81,6 +81,6 @@ class TextScramble {
 
 
 
-  setTimeout(function(){
-    window.location.href = 'https://lambdaily.github.io/Sofi/conversation.html';
- }, 13000);
+//   setTimeout(function(){
+//     window.location.href = 'https://lambdaily.github.io/Sofi/conversation.html';
+//  }, 13000);
